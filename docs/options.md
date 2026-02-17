@@ -2,6 +2,9 @@
 
 ## The options are below
 
+## **WE ARE UPDATING THE OPTIONS BASED ON THE DISCUSSION IN THE LAST MEETING**
+
+
 ![](packageoptions.png)
 
 The table presents options as columns compared to the humanitarian crises and the lowest rainfall years.  
@@ -19,5 +22,11 @@ Keep in mind:
 
 Please look carefully at the table, discuss, and then put your thoughts into the form below
 
+## **WE HAVE DISABLED THE FORM UNTIL WE HAVE UPDATED THE OPTIONS**
+
+<!-- comment out the real form until ready
 <div id="slide-config" data-type="kobo" data-next="../finished/" data-kobo-id="mwm1aL8O" data-width="100%"> </div>
+>
+
+<div id="slide-config" data-type="kobo" data-next="../finished/" data-kobo-id="" data-width="100%"> </div>
 
