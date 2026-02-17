@@ -9,7 +9,7 @@ The table presents options as columns compared to the humanitarian crises and th
 Two approaches are presented:
 
 - One approach is to allow any month to trigger and reduce the frequency for all months until the per year frequency is about 30% 
-- The other approach is to require two consecutive months to trigger.
+- The other approach is to require at least three months to trigger in the 5 months of forecasts.
 
 Keep in mind:
 
